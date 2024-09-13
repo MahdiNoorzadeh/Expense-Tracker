@@ -37,4 +37,4 @@ Change the logic to fit your desired time range.
 
 Thanks to https://www.youtube.com/@CodAffection for the tutorial. Here is the link to the tutorial on the project: https://youtu.be/zQ5eijfpuu8
 
-### Happy Coding!. 
+### Happy Coding!
